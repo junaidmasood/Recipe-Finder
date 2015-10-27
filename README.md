@@ -9,5 +9,7 @@ $java -jar jar-name.jar fridge-csv-file-path.csv recipe-json-file-path.json.
 
 Sample csv and json files could be found in the resources folder.
 
+Recipe listed first is displayed in case of equal Closest UseBy Dates.
+
 Libraries referenced: Commons IO, Gson, Commons CSV
 
